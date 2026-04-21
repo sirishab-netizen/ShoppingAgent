@@ -1,0 +1,11 @@
+id,name,category,brand,price_usd,rating,description
+1,Sony WH-1000XM5,headphones,Sony,279.99,4.8,Industry-leading noise cancellation with 30hr battery
+2,Anker Soundcore Q45,headphones,Anker,55.99,4.5,Budget ANC headphones with 50hr battery life
+3,Apple AirPods Pro (2nd gen),headphones,Apple,199.99,4.7,Adaptive transparency and personalized spatial audio
+4,Samsung Galaxy Buds2 Pro,earbuds,Samsung,149.99,4.4,Hi-Fi 24bit audio with intelligent ANC
+5,Logitech MX Master 3S,mouse,Logitech,99.99,4.8,8K DPI precision with near-silent clicks
+6,Keychron K2 Pro,keyboard,Keychron,89.99,4.6,Compact wireless mechanical keyboard for Mac/Windows
+7,Dell UltraSharp 27 4K,monitor,Dell,549.99,4.7,27-inch 4K IPS panel with USB-C 90W charging
+8,Anker 737 Power Bank,accessories,Anker,89.99,4.6,140W 24000mAh portable charger with smart display
+9,Kindle Paperwhite,e-reader,Amazon,139.99,4.7,6.8-inch display with adjustable warm light
+10,GoPro HERO12 Black,camera,GoPro,349.99,4.5,5.3K video with HyperSmooth 6.0 stabilization
